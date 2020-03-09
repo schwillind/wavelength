@@ -4,7 +4,7 @@
   "description": "An electron app, which is a set of tools for morse code and other amateur radio tools",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no tests yet..\" && exit 0",
     "start": "electron ."
   },
   "repository": {
