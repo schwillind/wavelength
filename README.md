@@ -1,4 +1,5 @@
-# wavelength
+![Wavelength Logo][https://raw.githubusercontent.com/schwillind/wavelength/master/logo.png]
+
 A set of tools for Amateur Radio, Morse Code, etc
 
 ## Prereqs
