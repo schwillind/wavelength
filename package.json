@@ -2,9 +2,10 @@
   "name": "wavelength",
   "version": "0.1.0",
   "description": "An electron app, which is a set of tools for morse code and other amateur radio tools",
-  "start": "main.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
