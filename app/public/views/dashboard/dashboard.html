@@ -5,19 +5,39 @@
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
     <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
-    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/dashboard.css">
+    <link rel="stylesheet" href="../../../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../node_modules/bootswatch/dist/spacelab/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/dashboard.css">
     
     <title>Wavelength</title>
   </head>
   <body>
-    <h1>Welcome to Wavelength</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-8">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci sapiente et labore porro aliquam ut culpa ea cumque, cum dolores?
+        </div>
+        <div class="col-4">
+          <img src="../../images/logo.png" class="img-fluid logo">
 
-    <!-- We are using Node.js <span id="node-version"></span>,
-    Chromium <span id="chrome-version"></span>,
-    and Electron <span id="electron-version"></span>. -->
+          <div class="list-group" id="main-list-group">
+            <a href="#" id="tool1" class="list-group-item list-group-item-action active"> Cras justo odio</a>
+            <a href="#" id="tool2" class="list-group-item list-group-item-action">Lorem ipsum dolor</a>
+            <a href="#" id="tool3" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
+            <a href="#" id="tool4" class="list-group-item list-group-item-action">Lorem ipsu23hfwoj</a>
+            <a href="#" id="tool5" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
+          </div>
 
+        </div>
+      </div>
+    </div>
+  
     <!-- You can also require other files to run in this process -->
-    <script src="../../../../controllers/renderer.js"></script>
+    <script src="../../../../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="../../../controllers/dashboard.js"></script>
+
   </body>
+  <footer>
+    <div id="copyright-text"><h6>Copyright &copy; schwillind <span id="year-display"></span></h6></div>
+  </footer>
 </html>
