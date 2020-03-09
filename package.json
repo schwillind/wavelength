@@ -1,0 +1,28 @@
+{
+  "name": "wavelength",
+  "version": "0.1.0",
+  "description": "An electron app, which is a set of tools for morse code and other amateur radio tools",
+  "start": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwillind/wavelength.git"
+  },
+  "keywords": [
+    "morse",
+    "radio",
+    "tools",
+    "electron"
+  ],
+  "author": "schwillind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwillind/wavelength/issues"
+  },
+  "homepage": "https://github.com/schwillind/wavelength#readme",
+  "devDependencies": {
+    "electron": "^8.1.0"
+  }
+}
