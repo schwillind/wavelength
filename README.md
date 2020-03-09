@@ -1,10 +1,10 @@
-![Wavelength Logo](https://raw.githubusercontent.com/schwillind/wavelength/master/logo.png)
+![Wavelength Logo](https://raw.githubusercontent.com/schwillind/wavelength/master/app/public/images/logo.png)
 
 A set of tools for Amateur Radio, Morse Code, etc
 
 ## Prereqs
 
-Node LTS 12.x`
+Node LTS 12.x
 
 ## Running Wavelength
 
