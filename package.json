@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/schwillind/wavelength#readme",
   "devDependencies": {
-    "electron": "^8.1.0"
+    "electron": "^8.2.2"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
