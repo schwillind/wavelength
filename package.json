@@ -28,7 +28,7 @@
     "lodash": ">=4.17.20"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^4.6.0",
     "bootswatch": "^4.5.0",
     "firebase-tools": "^8.12.1",
     "howler": "^2.1.3",
