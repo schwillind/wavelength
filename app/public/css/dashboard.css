@@ -1,9 +1,0 @@
-/* CSS for the dashboard */
-.logo{
-    width: 200px;
-    margin: 16px;
-}
-.list-group-item:hover{
-    cursor: pointer;
-    /* background-color: #eee !important; */
-}

@@ -1,20 +1,11 @@
 ![Wavelength Logo](https://raw.githubusercontent.com/schwillind/wavelength/master/app/public/images/logo.png)
 
-A set of tools for Amateur Radio, Morse Code, etc
+An application which holds tools for Amateur Radio, Morse Code, and HAM study tools, etc.
 
-## Prereqs
+## Install and Use
 
-Node LTS 12.x
+Windows - Download the Win / exe - TBD
 
-## Running Wavelength
+Mac - Download the Mac / dmg - TBD
 
-```bash
-# Clone this repository
-git clone https://github.com/schwillind/wavelength.git
-# Go into the repository
-cd wavelength
-# Install wavelength's dependencies
-npm install
-# Run wavelength
-npm start
-```
+Linux - Download the Linux / AppImage - TBD
