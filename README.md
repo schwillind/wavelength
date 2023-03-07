@@ -9,3 +9,4 @@ Windows - Download the Win / exe - TBD
 Mac - Download the Mac / dmg - TBD
 
 Linux - Download the Linux / AppImage - TBD
+`
